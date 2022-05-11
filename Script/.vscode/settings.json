@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "0308/src",
+        "0320/src"
+    ],
+    "java.project.outputPath": "Output"
+}

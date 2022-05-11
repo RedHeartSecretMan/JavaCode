@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Script_36a28c00"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxNumber",
+            "request": "launch",
+            "mainClass": "MaxNumber",
+            "projectName": "Script_36a28c00"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassByValue",
+            "request": "launch",
+            "mainClass": "PassByValue",
+            "projectName": "Script_36a28c00"
+        }
+    ]
+}
